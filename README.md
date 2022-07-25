@@ -8,3 +8,15 @@
 <p/>
 <br/>
  
+# :iphone:Official Devices:iphone:
+- [Asus](#-asus)
+- [Realme](#-realme)
+- [Xiaomi Poco](#-xiaomi-poco)
+- [Xiaomi Redmi](#-xiaomi-redmi)
+- [OnePlus](#-OnePlus)
+
+
+## <img src="logos/redmi_mi.svg" height="25"> Xiaomi Redmi
+ Device		|	Codename	|	 Maintainer 
+ --------------:|:---------------------:|:-----------------
+ Redmi 6 Pro	|	Sakura		|	[MohitYadav](https://telegram.me/YadavMohit19)
