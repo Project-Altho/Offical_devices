@@ -2,7 +2,7 @@
   <img src="https://github.com/Project-Altho/Offical_devices/releases/download/0.0.1/IMG_20220720_171735_074.jpg">
   <br/>
   <a href="https://telegram.me/projectaltho">
-    <img src="https://img.shields.io/badge/-Projectaltho-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge" height="30"/>
+    <img src="https://img.shields.io/badge/-Projectaltho-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram Badge" height="50"/>
     <a/>
     
 <p/>
